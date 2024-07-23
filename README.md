@@ -21,13 +21,4 @@ Please cite our paper if you find the code or dataset useful for your research.
   keywords={Feature extraction;Neural networks;Convolution;Training;Representation learning;Logic gates;Data models;Complex-valued (CV) representation;convolutional long short-term memory (ConvLSTM);feature fusion;hyperspectral image (HSI) classification;mutual attention learning},<br>
   doi={10.1109/TGRS.2022.3188791}}
 
-  # Requirements
-  CUDA Version: 8.0
-
-  Tflearn Version: 0.3.2
-  
-  Tensorflow-GPU Version: 1.4.0
-  
-  Python Version: 3.5.4
-
 # Note
