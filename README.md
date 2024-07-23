@@ -21,4 +21,8 @@ Please cite our paper if you find the code or dataset useful for your research.
   keywords={Feature extraction;Neural networks;Convolution;Training;Representation learning;Logic gates;Data models;Complex-valued (CV) representation;convolutional long short-term memory (ConvLSTM);feature fusion;hyperspectral image (HSI) classification;mutual attention learning},<br>
   doi={10.1109/TGRS.2022.3188791}}
 
+# Requirements
+
+  Tensorflow
+  
 # Note
