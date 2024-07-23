@@ -23,6 +23,6 @@ Please cite our paper if you find the code or dataset useful for your research.
 
 # Requirements
 
-  Tensorflow
+  Tensorflow v1
   
 # Note
